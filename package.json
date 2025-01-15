@@ -1,0 +1,20 @@
+{
+  "name": "cusolution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "endToEnd": "npx playwright test spec/endToEnd/emptyUserPassValidation.spec.ts --project=endToEnd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1",
+    "winston": "^3.17.0"
+  }
+}

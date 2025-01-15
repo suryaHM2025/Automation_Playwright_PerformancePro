@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "PHPSESSID",
+      "value": "e5jtrcudl3ut6borh1d1jltu4d",
+      "domain": "chrisintqa.perfpro-hrnonline-qa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cucookie",
+      "value": "!ymQTweda5hX5zSgXoZgxTO8cLicoLoEWDUnJd8mC3bRDeJrhB1p9IqveMLHRw9hOE1hSQXpXQQviJw==",
+      "domain": "chrisintqa.perfpro-hrnonline-qa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
